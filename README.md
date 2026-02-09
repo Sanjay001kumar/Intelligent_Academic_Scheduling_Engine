@@ -18,10 +18,9 @@ This system is suitable for **schools, colleges, and universities**.
 ---
 ## 🖥️ Application Screenshots
 
-### 📊 Dashboard – Manage Timetables
-Displays saved timetables with options to download or delete.
-
-![Dashboard](screenshots/dashboard.png)
+### 📊 HomePage – Manage Timetables
+Home Page Of The Timescheduling Engine
+![Dashboard](screenshots/home.png)
 
 ---
 
@@ -32,10 +31,10 @@ Upload your Excel file and generate an optimized schedule instantly.
 
 ---
 
-### ✅ File Processed & Ready to Download
-Download the generated timetable in PDF or Excel format.
+### ✅ Dashboard - File Processed & Ready to Download
+Download the generated timetable in PDF or Excel format on the dashboard.
 
-![Processed](screenshots/saved.png)
+![Processed](screenshots/dashboard.png)
 
 ---
 
